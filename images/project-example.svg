@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Example project image">
+  <rect width="1200" height="720" fill="#2a241c"/>
+  <rect x="80" y="80" width="1040" height="560" rx="28" fill="#3f6f62"/>
+  <circle cx="360" cy="320" r="90" fill="#e7c9a4"/>
+  <path d="M180 620c30-150 110-220 180-220s150 70 180 220" fill="#e7c9a4"/>
+  <text x="620" y="330" fill="#fffaf3" font-family="Georgia, serif" font-size="54">Your image</text>
+  <text x="620" y="378" fill="#fffaf3" font-family="Segoe UI, sans-serif" font-size="24">Replace images/project-example.svg</text>
+</svg>

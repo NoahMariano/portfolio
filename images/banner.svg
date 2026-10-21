@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Banner placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9c3418"/>
+      <stop offset="0.48" stop-color="#e4c39a"/>
+      <stop offset="1" stop-color="#1d3f37"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#sky)"/>
+  <circle cx="980" cy="118" r="58" fill="#fffaf3" opacity="0.55"/>
+  <path d="M0 360h1200v140H0z" fill="#1c1915" opacity="0.2"/>
+  <path d="M70 390h180v70H70zM270 350h70v110h-70zM360 370h140v90H360z" fill="#fffaf3" opacity="0.28"/>
+  <text x="64" y="250" fill="#fffaf3" font-family="Georgia, serif" font-size="54">Your banner</text>
+  <text x="64" y="292" fill="#fffaf3" font-family="Segoe UI, sans-serif" font-size="22" opacity="0.9">Replace images/banner.svg</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Third banner placeholder">
+  <defs>
+    <linearGradient id="sky" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a241c"/>
+      <stop offset="0.55" stop-color="#c46a45"/>
+      <stop offset="1" stop-color="#f3ecdf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#sky)"/>
+  <circle cx="860" cy="150" r="70" fill="#fffaf3" opacity="0.35"/>
+  <path d="M0 360h1200v140H0z" fill="#1c1915" opacity="0.16"/>
+  <text x="64" y="240" fill="#fffaf3" font-family="Georgia, serif" font-size="54">Banner 3</text>
+  <text x="64" y="284" fill="#fffaf3" font-family="Segoe UI, sans-serif" font-size="22">Replace images/banner-3.svg</text>
+</svg>
